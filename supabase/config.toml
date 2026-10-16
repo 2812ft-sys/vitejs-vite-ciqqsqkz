@@ -1,0 +1,4 @@
+# Supabase config for edge functions
+
+[functions.book-recommend]
+verify_jwt = false
